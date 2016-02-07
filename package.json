@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/emoji-names/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/emoji-names#readme"
+  "homepage": "https://github.com/IonicaBizau/emoji-names#readme",
+  "dependencies": {
+    "emoji-name-map": "^1.0.0"
+  }
 }
