@@ -1,17 +1,17 @@
-# emoji-chars [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/emoji-chars.svg)](https://www.npmjs.com/package/emoji-chars) [![Downloads](https://img.shields.io/npm/dt/emoji-chars.svg)](https://www.npmjs.com/package/emoji-chars) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# emoji-names [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/emoji-names.svg)](https://www.npmjs.com/package/emoji-names) [![Downloads](https://img.shields.io/npm/dt/emoji-names.svg)](https://www.npmjs.com/package/emoji-names) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-> Get the emoji chars as array.
+> Get the emoji names as array.
 
 ## Installation
 
 ```sh
-$ npm i --save emoji-chars
+$ npm i --save emoji-names
 ```
 
 ## Example
 
 ```js
-const emojis = require("emoji-chars");
+const emojis = require("emoji-names");
 
 console.log(emojis);
 // [ '100',
