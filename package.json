@@ -1,6 +1,6 @@
 {
   "name": "emoji-names",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get the emoji names as array.",
   "main": "lib/index.js",
   "directories": {
@@ -26,5 +26,16 @@
   "homepage": "https://github.com/IonicaBizau/emoji-names#readme",
   "dependencies": {
     "emoji-name-map": "^1.0.0"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
