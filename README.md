@@ -30,16 +30,14 @@ console.log(emojis);
 //   'hurtrealbad' ]
 ```
 
-## :memo: Documentation
-
-
-### emojis
-
-
-
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+## :dizzy: Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+
+ - [`emoji-dictionary`](https://github.com/IonicaBizau/emoji-dictionary#readme)—Convert emoji names in unicode characters and vice versa.
 
 ## :scroll: License
 
