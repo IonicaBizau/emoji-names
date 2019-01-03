@@ -1,6 +1,6 @@
 {
   "name": "emoji-names",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Get the emoji names as array.",
   "main": "lib/index.js",
   "directories": {
